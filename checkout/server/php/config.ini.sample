@@ -1,0 +1,4 @@
+stripe_secret_key = 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
+stripe_publishable_key = pk_live_51IdKRbIUhcsTk7G5uaRBwzEvqxsyqpTdtf2Gx2yhyIhJ1yrq7GEQyov0iNrfpVD5hR3r6snzP15nF2FqNBkoxdK300kcklD6pe
+domain = http://enrichmentlasvegas.com:4242
+price = price_1Ide9WIUhcsTk7G5kZvfpZp5
